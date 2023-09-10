@@ -1,0 +1,15 @@
+{
+    "username": "dfdf",
+    "pw": "ddfdfd",
+    "location": {
+      "lat": 45.32,
+      "long": 44.334
+    },
+    "testArray": ["sdsd", "sdsdsd"],
+    "testArray2": [
+      { "name": "n4", "pw": "pw1" , "arry2":["ssddss"] } ,
+      { "name": "n3", "pw": "pw2" },
+      { "name": "n4", "pw": "pw3" }
+  ]
+  }
+  
